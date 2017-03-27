@@ -1,0 +1,7 @@
+@inproceedings{somasundaran2007detecting,
+  title={Detecting arguing and sentiment in meetings},
+  author={Somasundaran, Swapna and Ruppenhofer, Josef and Wiebe, Janyce},
+  booktitle={Proceedings of the SIGdial Workshop on Discourse and Dialogue},
+  volume={6},
+  year={2007}
+}
